@@ -1,0 +1,26 @@
+{
+  "name": "bookrcdmgn",
+  "version": "1.0.0",
+  "description": "book record management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanskrutiWaskar24/libraryManagementSystem.git"
+  },
+  "author": "sans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanskrutiWaskar24/libraryManagementSystem/issues"
+  },
+  "homepage": "https://github.com/SanskrutiWaskar24/libraryManagementSystem#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
