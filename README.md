@@ -63,3 +63,12 @@ books/issued/withFine
 
 npm init
 npm i nodemon --save-dev
+
+
+const index = users.indexOf(user);
+users.splice(index,1);
+
+var class = ["six","seven","eight"];
+indexOf()
+class.indexOf("seven");
+1
